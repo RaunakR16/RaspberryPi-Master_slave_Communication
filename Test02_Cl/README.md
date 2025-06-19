@@ -24,7 +24,7 @@ SPI1 (Secondary):
 
 ### Connection Diagram
 ```
-Master Pi                    Slave Pi (Example)
+Master Pi                    Slave Pi 01
 ┌─────────────┐             ┌─────────────┐
 │ GPIO 11     │─────────────│ GPIO 11     │ (SCLK)
 │ GPIO 10     │─────────────│ GPIO 10     │ (MOSI)
